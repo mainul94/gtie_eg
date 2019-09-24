@@ -1,0 +1,101 @@
+[
+ {
+  "details": null,
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2019-09-25 04:09:29.377999",
+  "name": "Advertisement",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Advertisement"
+ },
+ {
+  "details": null,
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2019-09-25 04:09:34.297615",
+  "name": "Walk In",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Walk In"
+ },
+ {
+  "details": "<div><br></div>",
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2019-09-25 04:08:12.127275",
+  "name": "Activity",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Activity"
+ },
+ {
+  "details": "<div><br></div>",
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2019-09-25 04:08:34.163609",
+  "name": "Public Comment",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Public Comment"
+ },
+ {
+  "details": "<div><br></div>",
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2019-09-25 04:08:47.215612",
+  "name": "Introduction",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Introduction"
+ },
+ {
+  "details": "<div><br></div>",
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2019-09-25 04:08:55.740697",
+  "name": "Name",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Name"
+ },
+ {
+  "details": "<div><br></div>",
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2019-09-25 04:09:04.209897",
+  "name": "Marketing",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Marketing"
+ },
+ {
+  "details": "<div><br></div>",
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2019-09-25 04:09:47.635085",
+  "name": "Table",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Table"
+ },
+ {
+  "details": "<div><br></div>",
+  "docstatus": 0,
+  "doctype": "Lead Source",
+  "modified": "2019-09-25 04:09:57.563482",
+  "name": "Others",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Others"
+ }
+]
