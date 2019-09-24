@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gti_eg_education *.css
+recursive-include gti_eg_education *.csv
+recursive-include gti_eg_education *.html
+recursive-include gti_eg_education *.ico
+recursive-include gti_eg_education *.js
+recursive-include gti_eg_education *.json
+recursive-include gti_eg_education *.md
+recursive-include gti_eg_education *.png
+recursive-include gti_eg_education *.py
+recursive-include gti_eg_education *.svg
+recursive-include gti_eg_education *.txt
+recursive-exclude gti_eg_education *.pyc
