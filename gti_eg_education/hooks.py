@@ -14,6 +14,17 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+fixtures = [
+	{
+		"dt": "Custom Field",
+		"filters": [["app_name", "=", "gti_eg_education"]]
+	},
+	{
+		"dt": "Property Setter",
+		"filters": [["app_name", "=", "gti_eg_education"]]
+	}
+]
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/gti_eg_education/css/gti_eg_education.css"
 # app_include_js = "/assets/gti_eg_education/js/gti_eg_education.js"
