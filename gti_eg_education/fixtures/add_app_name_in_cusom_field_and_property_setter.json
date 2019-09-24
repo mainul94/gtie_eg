@@ -1,0 +1,32 @@
+[
+	{
+		"doctype": "Custom Field",
+		"dt": "Custom Field",
+		"label": "App Name",
+		"fieldname": "app_name",
+		"fieldtype": "Data",
+		"insert_after": "fieldname",
+		"translatable": 0,
+		"name": "Custom Field-app_name",
+		"creation": "2019-09-25 00:27:05.781582",
+		"modified": "2019-09-25 00:27:05.781582",
+		"modified_by": "Administrator",
+		"owner": "Administrator",
+		"in_standard_filter": 1
+	},
+	{
+		"doctype": "Custom Field",
+		"dt": "Property Setter",
+		"label": "App Name",
+		"fieldname": "app_name",
+		"fieldtype": "Data",
+		"insert_after": "doctype_or_field",
+		"translatable": 0,
+		"name": "Property Setter-app_name",
+		"creation": "2019-09-25 03:11:51.681681",
+		"modified": "2019-09-25 03:11:51.681681",
+		"modified_by": "Administrator",
+		"owner": "Administrator",
+		"in_standard_filter": 1
+	}
+]
