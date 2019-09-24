@@ -1,0 +1,1 @@
+{% include "gti_eg_education/public/js/follow_up.js" %}
