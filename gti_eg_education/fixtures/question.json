@@ -1,0 +1,689 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:08:06.786535",
+  "name": "QUESTION-00001",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Didn\u2019t hear",
+    "parent": "QUESTION-00001",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Heard about it",
+    "parent": "QUESTION-00001",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Understand STEM",
+    "parent": "QUESTION-00001",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "Did you hear about stem before?",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:17:43.435181",
+  "name": "QUESTION-00002",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Yes",
+    "parent": "QUESTION-00002",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "No",
+    "parent": "QUESTION-00002",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "Do you know any other centers like us?",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:19:17.668064",
+  "name": "QUESTION-00003",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Web search",
+    "parent": "QUESTION-00003",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Introduction",
+    "parent": "QUESTION-00003",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Recommended by School",
+    "parent": "QUESTION-00003",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Marketing people",
+    "parent": "QUESTION-00003",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Walk by",
+    "parent": "QUESTION-00003",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Table marketing",
+    "parent": "QUESTION-00003",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Activity",
+    "parent": "QUESTION-00003",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "WeChat",
+    "parent": "QUESTION-00003",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "Where did you hear about Trudoer STEM?",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:21:59.188476",
+  "name": "QUESTION-00004",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Weekday Evenings",
+    "parent": "QUESTION-00004",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Saturday",
+    "parent": "QUESTION-00004",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Sunday",
+    "parent": "QUESTION-00004",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Saturday+Sunday",
+    "parent": "QUESTION-00004",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "What time are your kids available?",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:23:56.402528",
+  "name": "QUESTION-00005",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Dance",
+    "parent": "QUESTION-00005",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Taekwondo",
+    "parent": "QUESTION-00005",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "English",
+    "parent": "QUESTION-00005",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Painting",
+    "parent": "QUESTION-00005",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Lego",
+    "parent": "QUESTION-00005",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Programming",
+    "parent": "QUESTION-00005",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Musical instruments",
+    "parent": "QUESTION-00005",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "After-School tutoring",
+    "parent": "QUESTION-00005",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "What after-school classes do your kids attend?",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:25:14.606931",
+  "name": "QUESTION-00006",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Child\u2019s interest",
+    "parent": "QUESTION-00006",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Teaching method",
+    "parent": "QUESTION-00006",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Teaching environment",
+    "parent": "QUESTION-00006",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Teaching material",
+    "parent": "QUESTION-00006",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "What do you think is the most important for your child education?",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:28:49.720419",
+  "name": "QUESTION-00007",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Critical thinking/problem solving",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Creativity",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Communication skills",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Cooperation",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Curiosity",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Initiative",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Persistence",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Leadership",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Knowledge application ability",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Focus",
+    "parent": "QUESTION-00007",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "What kind of abilities do you want to develop in your child?",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:30:14.516409",
+  "name": "QUESTION-00008",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "More than 20,000",
+    "parent": "QUESTION-00008",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "(10 to 20 thousand",
+    "parent": "QUESTION-00008",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Around 8 thousand",
+    "parent": "QUESTION-00008",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "3 to 5 thousand",
+    "parent": "QUESTION-00008",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Below 3 thousand",
+    "parent": "QUESTION-00008",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Uncertain",
+    "parent": "QUESTION-00008",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "Monthly income",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:31:29.022302",
+  "name": "QUESTION-00009",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Villa",
+    "parent": "QUESTION-00009",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Owner luxury resident",
+    "parent": "QUESTION-00009",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Self-build house",
+    "parent": "QUESTION-00009",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Own ordinary community",
+    "parent": "QUESTION-00009",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "House renting",
+    "parent": "QUESTION-00009",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Uncertain",
+    "parent": "QUESTION-00009",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "Housing situation",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:32:31.017845",
+  "name": "QUESTION-00010",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Drive",
+    "parent": "QUESTION-00010",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Walk",
+    "parent": "QUESTION-00010",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Taxi",
+    "parent": "QUESTION-00010",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Bus",
+    "parent": "QUESTION-00010",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Uncertain",
+    "parent": "QUESTION-00010",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "Transportation situation",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:34:33.297585",
+  "name": "QUESTION-00011",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "0.5km (Within)",
+    "parent": "QUESTION-00011",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "0.5km~2km",
+    "parent": "QUESTION-00011",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "2km~5km",
+    "parent": "QUESTION-00011",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "5km~10km",
+    "parent": "QUESTION-00011",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "10km (More)",
+    "parent": "QUESTION-00011",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Uncertain",
+    "parent": "QUESTION-00011",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "Distance",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:36:13.877978",
+  "name": "QUESTION-00012",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "Know a lot of early education brands and ideas",
+    "parent": "QUESTION-00012",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Understand the brand and philosophy",
+    "parent": "QUESTION-00012",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "I have heard of this brand, I have a good impression.",
+    "parent": "QUESTION-00012",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Don't know the brand",
+    "parent": "QUESTION-00012",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Don\u2019t agree with the brand",
+    "parent": "QUESTION-00012",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "Uncertain",
+    "parent": "QUESTION-00012",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "Brand recognition",
+  "question_type": "Multiple Correct Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Question",
+  "modified": "2019-09-26 03:38:37.157001",
+  "name": "QUESTION-00013",
+  "options": [
+   {
+    "is_correct": 1,
+    "option": "2 Peoples",
+    "parent": "QUESTION-00013",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "3 Peoples",
+    "parent": "QUESTION-00013",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "4 Peoples",
+    "parent": "QUESTION-00013",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "5 Peoples",
+    "parent": "QUESTION-00013",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "6 Peoples",
+    "parent": "QUESTION-00013",
+    "parentfield": "options",
+    "parenttype": "Question"
+   },
+   {
+    "is_correct": 1,
+    "option": "More then 6 Peoples",
+    "parent": "QUESTION-00013",
+    "parentfield": "options",
+    "parenttype": "Question"
+   }
+  ],
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "question": "Family member",
+  "question_type": "Multiple Correct Answer"
+ }
+]

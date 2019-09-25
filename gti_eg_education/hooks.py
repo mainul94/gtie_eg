@@ -22,10 +22,7 @@ fixtures = [
 	{
 		"dt": "Property Setter",
 		"filters": [["app_name", "=", "gti_eg_education"]]
-	},
-	{
-		"dt": "Lead Source"
-	}
+	}, "Lead Source", "Question", "Quiz"
 ]
 
 # include js, css files in header of desk.html

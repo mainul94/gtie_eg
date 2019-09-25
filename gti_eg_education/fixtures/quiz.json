@@ -1,0 +1,108 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Quiz",
+  "grading_basis": "Latest Highest Score",
+  "max_attempts": 1,
+  "modified": "2019-09-26 03:41:39.232197",
+  "name": "Questionnaire from demo class",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "passing_score": 40.0,
+  "question": [
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "Did you hear about stem before?",
+    "question_link": "QUESTION-00001"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "Do you know any other centers like us?",
+    "question_link": "QUESTION-00002"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "Where did you hear about Trudoer STEM?",
+    "question_link": "QUESTION-00003"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "What time are your kids available?",
+    "question_link": "QUESTION-00004"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "What after-school classes do your kids attend?",
+    "question_link": "QUESTION-00005"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "What do you think is the most important for your child education?",
+    "question_link": "QUESTION-00006"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "What kind of abilities do you want to develop in your child?",
+    "question_link": "QUESTION-00007"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "Monthly income",
+    "question_link": "QUESTION-00008"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "Housing situation",
+    "question_link": "QUESTION-00009"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "Transportation situation",
+    "question_link": "QUESTION-00010"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "Distance",
+    "question_link": "QUESTION-00011"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "Brand recognition",
+    "question_link": "QUESTION-00012"
+   },
+   {
+    "parent": "Questionnaire from demo class",
+    "parentfield": "question",
+    "parenttype": "Quiz",
+    "question": "Family member",
+    "question_link": "QUESTION-00013"
+   }
+  ],
+  "title": "Questionnaire from demo class"
+ }
+]
