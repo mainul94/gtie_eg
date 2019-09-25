@@ -16,7 +16,7 @@
 ,mother,（妈妈）
 ,grandfather,爷爷 
 ,grandmother,奶奶
-DocType:Lead Source,Others,其他）
+,Others,其他）
 ,activity,社区活动
 ,public comment,大众点评
 ,introduction,人员名字）
@@ -25,3 +25,76 @@ DocType:Lead Source,Others,其他）
 ,advertisement),传单
 ,Walking in,走进去
 ,table,市调
+,Did you hear about stem before?,对STEM的了解？
+,Didn’t hear,完全不了解
+,Heard about it,听说过
+,Understand STEM,很了解
+,Do you know any other centers like us?,您是否了解过其他同类培训机构？
+,Yes,是
+,No,否
+,Where did you hear about Trudoer STEM,您是从哪里了解到趣到STEM教育的？
+,Web search,网络搜索
+,Introduction,朋友介绍
+,Recommended by school,在校学员推荐
+,Marketing people,推广人员
+,Walk by,中心门头
+,Table marketing,推广点
+,Activity,活动
+,WeChat,微信
+,What time are your kids available,您倾向于选择哪一段时间送孩子参加培训？
+,Weekday evenings,平时晚间
+,Saturday,周六
+,Sunday,周日
+,Saturday+Sunday,周六＋周日
+,What after-school classes do your kids attend,您孩子正在上的兴趣班？
+,Dance,舞蹈
+,Taekwondo,跆拳道
+,English,英语
+,painting,画画
+,Lego,乐高
+,programming,编程
+,Musical instruments,乐器
+,After-school tutoring,课后辅导
+,What do you think is the most important for your child education?,您认为孩子学习最重要的是?
+,Child’s interest,兴趣
+,Teaching method,方法
+,Teaching environment,环境
+,Teaching material,教材
+,What kind of abilities do you want to develop in your child?,您希望培养孩子哪方面的能力?
+,Critical thinking/problem solving,批判性思维/解决问题
+,Creativity,创造力
+,Communication skills,沟通能力
+,Cooperation,合作能力
+,Curiosity,好奇心
+,Initiative,主动性
+,Persistence,受挫能力
+,Leadership,领导力
+,Knowledge application ability,知识运用能力
+,Focus,专注力
+,Monthly income,收入情况
+,More than 20000,月收入2万以上
+,10 to 20 thousand,月收入1至2万
+,Around 8 thousand,月收入8千左右
+,3 to 5 thousand,月收入3千到5千
+,Below 3 thousand,月收入3千以下
+,Housing situation,住房情况
+,Villa,别墅  
+,Owner luxury resident,豪华小区购房  
+,Self-build house,自建房
+,Own ordinary community,普通小区购房  
+,House renting,租房
+,Transportation situation,交通情况
+,Drive,自驾
+,Walk,步行
+,Taxi,出租
+,Bus,公交
+,Distance,家庭距离
+,brand recognition,品牌认可度
+,Know a lot of early education brands and ideas, 知道多家早教品牌及理念
+,Understand the brand and philosophy,了解本品牌及理念
+,I have heard of this,听说过本品牌
+,I have a good impression，印象不错
+,Don't know the brand, 不知道本品牌
+,Don’t agree with the brand,不认可本品牌
+,Uncertain,不确定
+,Family member,家庭成员
