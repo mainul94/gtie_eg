@@ -1,0 +1,41 @@
+{
+ "creation": "2019-09-30 13:34:31.668693",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "question",
+  "column_break_2",
+  "answer"
+ ],
+ "fields": [
+  {
+   "fieldname": "question",
+   "fieldtype": "Link",
+   "label": "Question",
+   "options": "Question",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_2",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "answer",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Answer"
+  }
+ ],
+ "istable": 1,
+ "modified": "2019-09-30 13:34:31.668693",
+ "modified_by": "Administrator",
+ "module": "GTI Education",
+ "name": "Lead Questionnaires",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
