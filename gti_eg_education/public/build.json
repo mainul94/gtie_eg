@@ -1,0 +1,10 @@
+{
+	"css/gti_eg_education.css": [
+		"public/css/_layout.less",
+		"public/css/_menu_sidebar.less"
+	],
+	"js/gti_eg_education.js": [
+		"public/js/ui/layout.js",
+		"public/js/ui/menu_sidebar.js"
+	]
+}
