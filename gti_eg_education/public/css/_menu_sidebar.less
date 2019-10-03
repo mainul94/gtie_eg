@@ -76,8 +76,8 @@ aside, .sub_menu {
 }
 
 #page-desktop {
-	left: @menu_sidebar_width + @menu_sidebar_item_width;
-	min-width: calc(100% - (@menu_sidebar_width + @menu_sidebar_item_width));
+	left: @menu_sidebar_width;
+	min-width: calc(100% - @menu_sidebar_width);
 }
 
 .page-container {
@@ -88,6 +88,7 @@ aside, .sub_menu {
 body.pin_sidebar{
 	 #page-desktop, .page-container {
 		left: @menu_sidebar_width + @menu_sidebar_item_width;
+		min-width: calc(100% - (@menu_sidebar_width + @menu_sidebar_item_width));
 		width: calc(100% - (@menu_sidebar_width + @menu_sidebar_item_width));
 	}
 	.sub_menu {
