@@ -4,20 +4,25 @@
 ,Organization Name (Chinese),组织名称 (中文)
 ,Organization Name (English),组织名称 (英文)
 ,Importance,重要程度
-,Importance,重要程度
+,Age (Year),年龄（岁）
+,Lead Creator,首席创作者
 ,E Give up,放弃 E
 ,D general,一般 D
 ,C can follow,可以跟 C
 ,B Important,重要 B
 ,A Very important,很重要 A
 ,Demo time,意向时间
-,relationship,关系
-,father,（爸爸） 
-,mother,（妈妈）
-,grandfather,爷爷 
-,grandmother,奶奶
+,Relationship,关系
+,Father,（爸爸） 
+,Mother,（妈妈）
+,Grandfather,爷爷 
+,Grandmother,奶奶
 ,Others,其他）
 ,activity,社区活动
+,Regular School,正规学校
+,QUESTIONNAIRES,问卷
+,Questionnaires,问卷调查
+,Answer,回答
 ,public comment,大众点评
 ,introduction,人员名字）
 ,name,转介绍
@@ -98,3 +103,17 @@
 ,Don’t agree with the brand,不认可本品牌
 ,Uncertain,不确定
 ,Family member,家庭成员
+,Converted By,转换依据
+,Mins to first response,分钟至第一反应
+,DEMO CLASS,演示班
+,Demo date,演示日期
+,Outside Location,外部位置
+,COMMUNICATION,通讯
+,Communications,通讯
+,Contact date,联络日期
+,Call Answered,接听电话
+,Need demo class,需要演示班
+,Follow up Required,需要跟进
+,Demo class date,示范课日期
+,Follow up Date,跟进日期
+,Instructor Assistant,指导老师
