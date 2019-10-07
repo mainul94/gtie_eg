@@ -3,6 +3,17 @@
   "details": null,
   "docstatus": 0,
   "doctype": "Lead Source",
+  "modified": "2019-10-04 03:14:55.472860",
+  "name": "Campaign",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source_name": "Campaign"
+ },
+ {
+  "details": null,
+  "docstatus": 0,
+  "doctype": "Lead Source",
   "modified": "2019-09-25 04:09:29.377999",
   "name": "Advertisement",
   "parent": null,
